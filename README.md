@@ -6,7 +6,6 @@ A simple yet stylish countdown timer that shows how much time is left until the 
 
 Check it out live here:  
 👉 https://jefa21.github.io/gta-vi-release-countdown/
-(Replace the link with your actual GitHub Pages or deployment URL.)
 
 ## 📦 Features
 
